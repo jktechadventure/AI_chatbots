@@ -1,0 +1,9 @@
+We welcome contributions from AI enthusiasts, researchers, and developers! Feel free to fork the project and submit pull requests.
+
+Future Improvements
+  Enhancing Accuracy: Fine-tuning the model for improved contextual understanding.
+  Memory Retention: Enabling chatbot to retain conversation history.
+  Real-time Indexing: Dynamically updating information retrieval.
+  Deployment as a Web App: Integrating with platforms like Flask or FastAPI.
+
+This project represents a first step toward AI-driven customer support for businesses. By leveraging LangChain and LLMs, businesses can automate inquiries, enhance user experience, and increase conversion rates in today’s digital-first world. 
